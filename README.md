@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trinayau&label=Profile%20views&color=FCB1A6&style=flat" alt="eluented" /> </p>
-
 <h1 align="center">👋Saeed Ghafoori (Serpider)</h1>
 <h3 align="center">Mobile and web service developer</h3>
 
