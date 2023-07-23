@@ -1,4 +1,4 @@
-<img src="[https://komarev.com/ghpvc/?username=serpider&label=Profile%20views&color=0e75b6&style=flat](http://moblnodezh.com/Github%20Header.jpg)](http://moblnodezh.com/Github%20Header.jpg)" alt="serpider" />
+<img src="http://moblnodezh.com/Github%20Header.jpg" alt="serpider" />
 
 <h1 align="center">👋Saeed Ghafoori (Serpider)</h1>
 <h3 align="center">Mobile and web service developer</h3>
